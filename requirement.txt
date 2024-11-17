@@ -1,0 +1,8 @@
+Afin de faire fonctionner le code, il y a plusieurs librairies à installer en python. 
+Voici les commandes à rentrer dans un terminal bash/PowerShell : 
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install pygam
+pip install statsmodels
+
